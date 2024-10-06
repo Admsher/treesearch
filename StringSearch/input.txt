@@ -1,0 +1,2 @@
+Folder:Test/NYT_00192016.CSV
+ComparisonValue:the titles for this current offering and Mr. Schoedsack manipulated the camera
